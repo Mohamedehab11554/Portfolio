@@ -19,7 +19,7 @@ export const data = {
         },
         {
             title: "University",
-            subTitle: "University Helwan",
+            subTitle: " Helwan",
             description: "College of Foreign Trade",
         },
     ],
