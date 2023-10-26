@@ -28,27 +28,42 @@
         display: flex;
         justify-content: center;
         margin-top: 15px;
-
+        
         button{
             cursor: pointer;
             padding: 10px 70px;
             font-size: 2rem;
+            margin: 5px;
             background-color: transparent;
             color: var(--yellow-theme-main-color);
             border: 1.5px solid var(--yellow-theme-main-color);
             border-radius: 4px;
             font-weight: 500;
-
+            
             &:hover{
                 background-color: var(--yellow-theme-main-color);
                 color: #000000;
             }
         }
     }
+    &__icon-me{
+        display: flex;
+
+     a{
+         display: flex;
+        justify-content: center;
+        justify-items: center;
+        padding: 70px;
+        color:var(--yellow-theme-main-color);
+        &:hover{
+            color: white;
+        }
+     }
+    }
 }
 
 @media only screen and (max-width : 550px){
-
+    
     .home__text-wrapper h1 {
         font-size: 3rem;
         line-height: 5rem;
