@@ -40,7 +40,7 @@ const Navbar = () => {
     };
     return (
         <div>
-            <nav className="navbar">
+            <nav className="navbar" style={{zIndex:'1000'}}>
                 <div className="navbar__container">
 
                     <Link to={"/"} className="navbar__container__logo">
