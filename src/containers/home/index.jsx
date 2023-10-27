@@ -42,7 +42,7 @@ const Home = () => {
             >
                 <div className="home__contact-me">
                     <button onClick={handleNavigateToContactMePage}>Hire Me</button>
-                    <a href="https://github.com/" target="_blank"><button>Download CV</button></a>
+                    <a href="https://github.com/Mohamedehab11554" target="_blank"><button>Download CV</button></a>
                 </div>
                 <div className="home__icon-me">
                 <a href="https://www.instagram.com/" target="_blank">
@@ -51,7 +51,7 @@ const Home = () => {
                 <a href="https://www.facebook.com/" target="_blank">
                     {<BsFacebook size={54}/>}
                 </a>
-                <a href="https://github.com/" target="_blank">
+                <a href="https://github.com/Mohamedehab11554" target="_blank">
                     {<BsGithub size={55}/>}
                 </a>
                 </div>
