@@ -72,7 +72,13 @@
         display: flex;
       padding: 45px;
     }
-    
+
+    .home__contact-me button {
+        padding: 8px 40px;
+        font-size: 1.5rem;
+        margin: 3px;
+    }
+
 }
 
 @media only screen and (min-width : 551px) and (max-width : 786px){
@@ -84,6 +90,12 @@
         display: flex;
       padding: 45px;
     }
+
+    .home__contact-me button {
+        padding: 8px 40px;
+        font-size: 1.5rem;
+        margin: 3px;
+    }
 }
 
 @media only screen and (min-width : 769px) and (max-width : 990px){
@@ -94,6 +106,12 @@
     .home__icon-me a {
         display: flex;
       padding: 45px;
+    }
+
+    .home__contact-me button {
+        padding: 8px 40px;
+        font-size: 1.5rem;
+        margin: 3px;
     }
 }
 
