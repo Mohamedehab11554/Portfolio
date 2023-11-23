@@ -3,8 +3,8 @@
 
 - 🔭 This is [Portfolio](https://mohamedehab11554.github.io/Portfolio/)
 
-- ![Screenshot 2023-10-30 182243](https://github.com/Mohamedehab11554/Portfolio/assets/145847573/295232ac-8515-4d48-94f1-4ae82d74d953)
-- ![Screenshot 2023-10-30 182301](https://github.com/Mohamedehab11554/Portfolio/assets/145847573/d5504638-2d01-4d6a-9dc5-74927bd3a9a1)
+![Screenshot 2023-11-23 224910](https://github.com/Mohamedehab11554/Portfolio/assets/145847573/7c4ee498-12bf-4c02-bdef-2f91dc233c92)
+![Screenshot 2023-11-23 224928](https://github.com/Mohamedehab11554/Portfolio/assets/145847573/bcb2af0f-e115-437d-a16f-531f495d5787)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
